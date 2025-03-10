@@ -1,3 +1,3 @@
 # popupforever
-Don't download the jar file and click on the button
-https://github.com/CodePearly/popupforever/releases/download/v1.0/Dontdownloadme.clickme.jar
+Don't Download the <a herf="https://github.com/CodePearly/popupforever/releases/download/v1.0/Dontdownloadme.clickme.jar">jar</a> file underneath and don't execute it and click on the button
+<a href="https://github.com/CodePearly/popupforever/releases/download/v1.0/Dontdownloadme.clickme.jar">https://github.com/CodePearly/popupforever/releases/download/v1.0/Dontdownloadme.clickme.jar</a>
